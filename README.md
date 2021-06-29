@@ -3,7 +3,7 @@ Disney Filmleri
 
 ## Projenin Logosu
 <p align="center">
-<img src= "https://raw.githubusercontent.com/GorkemAydogdu/Getir/main/Logo%26MimariYapi/GetirLogo.jpg" height = "150"/>
+<img src= "https://raw.githubusercontent.com/GorkemAydogdu/DisneyFilm/main/app/LogoVePaketYapisi/disneyLogo.png" height = "150"/>
 </p>
 
 ## Mimari Paket Yapisi
