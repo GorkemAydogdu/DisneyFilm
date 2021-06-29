@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.H5190063_GorkemAydogdu_But" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPurple</item>
+        <item name="colorPrimaryVariant">@color/colorBlue</item>
+        <item name="colorOnPrimary">@color/colorWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorCyan</item>
+        <item name="colorSecondaryVariant">@color/colorBlue</item>
+        <item name="colorOnSecondary">@color/colorBlack</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

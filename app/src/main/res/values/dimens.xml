@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="girisLogo">300dp</dimen>
+    <dimen name="girisLogoYukseklik">120dp</dimen>
+
+    <dimen name="textSize">14sp</dimen>
+
+    <dimen name="cardViewBosluk">15dp</dimen>
+    <dimen name="rcYukseklik">150dp</dimen>
+
+    <dimen name ="filmResimBoyut">150dp</dimen>
+    <dimen name="filmAdiSaatBoyut">150dp</dimen>
+
+    <dimen name="btnWidth">150dp</dimen>
+    <dimen name="btnHeight">50dp</dimen>
+
+    <dimen name="btnYukseklik">25dp</dimen>
+    <dimen name="bosluk">16dp</dimen>
+
+    <dimen name="image2Width">50dp</dimen>
+    <dimen name="image2Height">26dp</dimen>
+
+    <dimen name="image3Width">50dp</dimen>
+    <dimen name="image3Height">26dp</dimen>
+
+    <dimen name="switchHeight">25dp</dimen>
+
+    <dimen name="switchYukseklik">40dp</dimen>
+    <dimen name="imageBosluk">32dp</dimen>
+</resources>

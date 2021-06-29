@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DisneyFilm</string>
+
+    <string name="counter">COUNTER</string>
+    <string name="finish">FINISH</string>
+
+    <string name="uyarı">UYARI!</string>
+    <string name="alertCikis">Uygulamadan çıkmak istiyor musunuz?</string>
+
+    <string name="Evet">Evet</string>
+    <string name="Hayir">Hayir</string>
+
+
+    <string name="btnSırala">Sirala</string>
+
+    <string name="seciniz">Seçiniz</string>
+
+    <string name="ismeGoreArtan">İsme Göre Artan</string>
+    <string name="ismeGoreAzalan">İsme Göre Azalan</string>
+
+    <string name="proggresdialogMesaj">Lütfen Bekleyiniz</string>
+    <string name="proggresdialogBaslik">Yükleniyor</string>
+</resources>
